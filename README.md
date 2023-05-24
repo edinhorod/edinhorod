@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edson Rodrigues</h1>
-<h3 align="center">A passionate Software Engineer | LARAVEL | REACTJS | VUEJS | REACT-NATIVEfrontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer | LARAVEL | REACTJS | VUEJS | REACT-NATIVE</h3>
 
 - 🌱 I’m currently learning **Node, React**
 
