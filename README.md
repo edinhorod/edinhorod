@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel, React, React-Native,Node**
 
-- 📫 How to reach me **edinhor@gmail.com**
+- 📫 You can send me an email **edinhor@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/edinhorodrigues/](https://www.linkedin.com/in/edinhorodrigues/)
 
