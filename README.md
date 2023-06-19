@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node, React**
 
-- 👨‍💻 All of my projects are available at [https://huts.com.br/portfolio](https://huts.com.br/portfolio)
+- 👨‍💻 SOme of my projects are available at [https://huts.com.br/portfolio](https://huts.com.br/portfolio)
 
 - 💬 Ask me about **Laravel, React, React-Native,Node**
 
