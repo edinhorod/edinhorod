@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edson Rodrigues</h1>
 <h3 align="center">Software Engineer | LARAVEL | REACTJS | VUEJS | REACT-NATIVE</h3>
 
-- 🌱 I’m currently learning **Node, React**
+- 🌱 I'm passionate about technology, especially development: **Laravel, React, React Native, Node**
 
 - 👨‍💻 Some of my projects are available at [https://huts.com.br/portfolio](https://huts.com.br/portfolio)
 
