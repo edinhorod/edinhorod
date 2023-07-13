@@ -5,7 +5,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://huts.com.br/portfolio](https://huts.com.br/portfolio)
 
-- 💬 Ask me about **Laravel, React, React-Native,Node**
+- 💬 Ask me about **Laravel, React, React-Native, Node**
 
 - 📫 You can send me an email **edinhor@gmail.com**
 
