@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edson Rodrigues</h1>
-<h3 align="center">Software Engineer | LARAVEL | REACTJS | VUEJS | REACT-NATIVE</h3>
+<h3 align="center">Software Engineer | LARAVEL | REACTJS | REACT-NATIVE | NODE | VUEJS</h3>
 
 - 🌱 I'm passionate about technology, especially development: **Laravel, React, React Native, Node**
 
